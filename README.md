@@ -32,3 +32,10 @@ total amount of interest = amount*basic interest*month
 total amount of interest = amount*new interest*month
 7.	calculate the financial status 
 financial status = (monthly payment/net income)*100
+<br>
+
+### Others:
+
+[Pseudocode and Flowchart.docx](https://github.com/ssakinah/Credit-Card-Payment-Calculator/files/7750642/Pseudocode.and.Flowchart.docx)
+
+[Output.docx](https://github.com/ssakinah/Credit-Card-Payment-Calculator/files/7750650/Output.docx)

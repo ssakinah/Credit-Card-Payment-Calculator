@@ -29,7 +29,7 @@ outstanding balance = outstanding balance*(1 + new interest) – monthly payment
 5.	calculate the total amount of interest if number of months is less than or equal to 12 months :
 total amount of interest = amount*basic interest*month
 6.	calculate the total amount of interest if number of months is more than 12 months :
-total amount of interest = amount*new interest*month
+total amount of interest = amount * new interest * month
 7.	calculate the financial status 
 financial status = (monthly payment/net income)*100
 <br>
